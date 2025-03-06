@@ -1,8 +1,8 @@
-# Android Lab Unit 4 - *ArticleSearch*
+# Android Lab Unit 5 - *ArticleSearchPt2*
 
 Submitted by: **Jerry Belardino**
 
-**ArticleSearch** is an android app that displays the most recent articles from the NYTimes API
+**ArticleSearchPt2** is an android app that displays the most recent articles from the NYTimes API and can function without an internet connection
 
 Time spent: **2** hours spent in total
 
@@ -12,6 +12,7 @@ The following **required** functionality is completed:
 
 * [x] Displays the most recent articles from the NYTimes api
 * [x] Users can click on an article to get more details
+* [x] The app functions without an internet connection
 
 ## Video Walkthrough
 
